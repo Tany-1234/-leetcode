@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Tany-1234/-leetcode/tree/main/0001-two-sum/) | Easy |
 | [0414-third-maximum-number](https://github.com/Tany-1234/-leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tany-1234/-leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tany-1234/-leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tany-1234/-leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tany-1234/-leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tany-1234/-leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 <!---LeetCode Topics End-->
