@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tany-1234/-leetcode/tree/main/0001-two-sum/) | Easy |
+| [0414-third-maximum-number](https://github.com/Tany-1234/-leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tany-1234/-leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Tany-1234/-leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0414-third-maximum-number](https://github.com/Tany-1234/-leetcode/tree/main/0414-third-maximum-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
